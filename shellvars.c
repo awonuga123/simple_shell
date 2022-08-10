@@ -2,7 +2,7 @@
 #include "shellvars.h"
 /**
  * initsvars - initialize vars
- * @ac: arguemnts intiger
+ * @ac: arguemnts intiger.
  * @av: string arguments
  * Return: int
  */

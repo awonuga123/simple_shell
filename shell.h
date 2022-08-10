@@ -99,7 +99,7 @@ void exitcleanup(char **av);
 /* from _atoi*/
 int _atoi(char *s);
 
-char *_getpid(void);
+char *_getpid(void);  
 
 
 #endif

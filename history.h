@@ -6,7 +6,7 @@
  * @cmd: command line entered
  * @next: pointer to the next node
  * Description: singly linked list node structure for History 
- * for Holberton project
+ * for Holberton project.
  */
 
 typedef struct HistList

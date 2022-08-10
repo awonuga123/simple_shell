@@ -2,7 +2,7 @@
 
 /**
  * checkpath - checks the path
- * @av: arguments
+ * @av: arguments.
  * Return: 1
  */
 int checkpath(char *av[])

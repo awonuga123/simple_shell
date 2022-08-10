@@ -2,7 +2,7 @@
 #include "alias.h"
 /**
  * getalist - static wrapper getalias list
- * Return: address alist
+ * Return: address alist.
  *
  */
 AliasData **getalist()

@@ -10,7 +10,7 @@ AliasData **getalist();
 /**
  * exitcleanup - cleans up various vars before exiting
  * @av: argument list to free (if any)
- * Return: void
+ * Return: void.
  */
 
 void exitcleanup(char **av)

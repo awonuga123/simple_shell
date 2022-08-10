@@ -3,7 +3,7 @@
  * _getline - gets a line from fd or std input
  * @lineptr: buffer to fill line with
  * @fd: file descriptor
- * Return: num of characters
+ * Return: num of characters.
  */
 int _getline(char **lineptr, int fd)
 {

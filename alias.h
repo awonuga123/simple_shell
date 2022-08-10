@@ -6,7 +6,7 @@
  * @AliasData - name of the struct
  * @name: name of the alias value
  * @val: value for the alias
- * @next: pointer to next node
+ * @next: pointer to next node.
  *
  */
 

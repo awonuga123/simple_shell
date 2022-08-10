@@ -2,7 +2,7 @@
 /**
  * _realloc - reallocates a memory block using malloc and free
  * @ptr: void pointer
- * @old_size: unsigned int
+ * @old_size: unsigned int.
  * @new_size: unsigned int
  * Return: pointer
  */

@@ -1,7 +1,7 @@
 /**
  * getenviron - static wrapper copy whole environ
  *
- * Return: environ address
+ * Return: environ address.
  */
 
 char ***getenviron()

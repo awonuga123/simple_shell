@@ -1,7 +1,7 @@
 #include "shellvars.h"
 
 /**
- * getspecial - wrapper for getspecial static var
+ * getspecial - wrapper for getspecial static var.
  * Return: address of shellvar special
  */
 

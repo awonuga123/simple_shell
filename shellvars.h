@@ -5,7 +5,7 @@
  * struct ShellVar - shellvar list node
  * @name: name of variable
  * @val: value of variable
- * @next: next variable in the list
+ * @next: next variable in the list.
  */
 typedef struct ShellVar
 {
